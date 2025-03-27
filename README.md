@@ -14,7 +14,7 @@ The Efficient Page Replacement Algorithm Simulator is a software tool designed t
 
  C.Features
 
-Multiple Page Replacement Algorithms: Supports FIFO, LRU, and Optimal algorithms.✔ User Input Options: Allows users to enter the number of memory frames and reference string. Performance Comparison: Displays the number of page faults for each algorithm.✔ Visual Representation: Shows memory allocation and page replacement process step-by-step. Scalability: Can be extended to include additional page replacement techniques (e.g., Clock Algorithm).
+Multiple Page Replacement Algorithms: Supports FIFO, LRU, and Optimal algorithms. User Input Options: Allows users to enter the number of memory frames and reference string. Performance Comparison: Displays the number of page faults for each algorithm. Visual Representation: Shows memory allocation and page replacement process step-by-step. Scalability: Can be extended to include additional page replacement techniques (e.g., Clock Algorithm).
 
  D.Scope
 
@@ -33,7 +33,7 @@ iii. Enhanced understanding of memory management through interactive learning.
 
  F.Future Enhancements
 
- Graphical Visualization: Add real-time graphical representations of memory frames.📈 More Algorithms: Implement additional techniques like Clock Algorithm.🌍 Web-Based Interface: Develop an online version for educational use.
+ Graphical Visualization: Add real-time graphical representations of memory frames. More Algorithms: Implement additional techniques like Clock Algorithm. Web-Based Interface: Develop an online version for educational use.
 
 G. References
 
@@ -43,7 +43,4 @@ ii.Operating Systems Concepts - Silberschatz, Galvin, Gagne
 
 iii.Class Notes
 
- H.License
-
-This project is licensed under the MIT License.
 
